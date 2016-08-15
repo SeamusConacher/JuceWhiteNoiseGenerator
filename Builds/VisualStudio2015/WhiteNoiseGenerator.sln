@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2015
+Project("{41412A3A-2669-48B7-9BB4-A819F02885ED}") = "WhiteNoiseGenerator", "WhiteNoiseGenerator.vcxproj", "{D75775B9-F52D-73B1-9942-C39E3FE967C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D75775B9-F52D-73B1-9942-C39E3FE967C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D75775B9-F52D-73B1-9942-C39E3FE967C1}.Debug|Win32.Build.0 = Debug|Win32
+		{D75775B9-F52D-73B1-9942-C39E3FE967C1}.Release|Win32.ActiveCfg = Release|Win32
+		{D75775B9-F52D-73B1-9942-C39E3FE967C1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
